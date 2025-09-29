@@ -41,7 +41,7 @@ I'm a Russian student 🇷🇺 with a strong interest in UNIX systems and declar
 - **⚙️ OS:** macOS Tahoe 
 - **🎯 Setup:** Managed with Nix-Darwin + Homebrew. Gruvbox palette ❤️
 
----
+
 ## 📈 Current Focus
 
 - Mastering Go programming language
@@ -49,6 +49,8 @@ I'm a Russian student 🇷🇺 with a strong interest in UNIX systems and declar
 
 
 <div align="center">
+
+---
 
 *"I can’t take it anymore… doing a job like this makes you crazy."*
 
