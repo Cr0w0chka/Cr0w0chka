@@ -13,8 +13,8 @@
 I'm a student with a strong interest in Go (Golang). I enjoy exploring different technologies and also, ricing OS.
 
 - 🌱 **Currently learning:** Go (Golang)
-- ❤️ **Favorite tools:** Nix, Git, Linux, FreeBSD
-- 🎯 **Focus areas:** Backend Development, DevOps
+- ❤️ **Favorite tools:** Go, Git, PostgreSQL for sure 
+- 🎯 **Focus areas:** Backend Development, Networking, DevOps
 
 # 🛠️ Tech Stack
 
