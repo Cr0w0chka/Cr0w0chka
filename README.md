@@ -38,7 +38,9 @@ I'm a student with a strong interest in Go (Golang). I enjoy exploring different
 <a href="https://www.postgresql.org" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
 </a>
-
+<a href="https://kafka.apache.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kafka/kafka-original.svg" alt="Apache Kafka" width="40" height="40"/>
+</a>
 </p>
 
 ### 🖥️ Hardware Setup
