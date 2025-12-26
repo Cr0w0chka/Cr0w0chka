@@ -8,15 +8,15 @@
 
 </div>
 
-## 🚀 About Me
+# 🚀 About Me
 
-I'm a Russian student 🇷🇺 with a strong interest in UNIX systems and declarative system configuration. I enjoy exploring different technologies and ricing OS.
+I'm a student with a strong interest in Go (Golang). I enjoy exploring different technologies and also, ricing OS.
 
 - 🌱 **Currently learning:** Go (Golang)
 - ❤️ **Favorite tools:** Nix, Git, Linux, FreeBSD
 - 🎯 **Focus areas:** Backend Development, DevOps
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### Languages & Tools
 <p align="left">
@@ -46,12 +46,15 @@ I'm a Russian student 🇷🇺 with a strong interest in UNIX systems and declar
 **Primary Machine:**
 - **💻 Laptop:** MacBook Air M4
 - **⚙️ OS:** macOS Tahoe 
-- **🎯 Setup:** Managed with Nix-Darwin + Homebrew. Gruvbox palette ❤️
+- **🎯 Setup:** Managed with Homebrew for working with Go.
 
 
 ## 📈 Current Focus
 
 - Mastering Go programming language
+- Studying about gRPC with ProtoBuf
+- Mastering Kafka
+- Mastering Redis
 - Exploring system architecture and DevOps
 
 
@@ -59,7 +62,6 @@ I'm a Russian student 🇷🇺 with a strong interest in UNIX systems and declar
 
 ---
 
-*"I can’t take it anymore… doing a job like this makes you crazy."*
 
 </div>
 
