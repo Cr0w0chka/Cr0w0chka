@@ -65,7 +65,7 @@ I'm a student with a strong interest in Go (Golang). I enjoy exploring different
 
 ---
 
-## Maybe, one day... i start learning Rust...
+### Maybe, one day... i start learning Rust...
 
 </div>
 
