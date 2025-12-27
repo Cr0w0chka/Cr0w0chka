@@ -26,18 +26,12 @@ I'm a student with a strong interest in Go (Golang). I enjoy exploring different
   <a href="https://golang.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
   </a>
-  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="SQL" width="40" height="40"/>
-  </a>
 </p>
 
 ### Frameworks & Libraries
 <p align="left">
   <a href="https://gin-gonic.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="Gin" width="40" height="40"/>
-  </a>
-  <a href="https://grpc.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/grpc/grpc/master/doc/grpc.svg" alt="gRPC" width="40" height="40"/>
   </a>
 </p>
 
@@ -80,12 +74,6 @@ I'm a student with a strong interest in Go (Golang). I enjoy exploring different
 
 ---
 
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cr0w0&show_icons=true&theme=radical)
-
-
----
 
 <div align="center">
 
